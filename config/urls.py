@@ -21,4 +21,4 @@ urlpatterns = [
     
     # Other Authentication Endpoints (dj-rest-auth)
     path('api/auth/', include('dj_rest_auth.urls')),
-]
+] 
