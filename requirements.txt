@@ -1,0 +1,10 @@
+Django==5.2.7
+djangorestframework==3.16.1
+django-cors-headers==4.9.0
+dj-rest-auth==7.0.1
+dj-rest-auth[with_social]==7.0.1
+django-allauth==65.13.1
+gunicorn==23.0.0
+whitenoise==6.6.0
+python-decouple==3.8
+psycopg2-binary==2.9.9
